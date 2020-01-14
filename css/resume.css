@@ -202,6 +202,15 @@ a:hover, a:focus, a:active {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-angular:before {
+  content: "\e901";
+}
+.icon-slack:before {
+  content: "\e902";
+}
+.icon-badminton:before {
+  content: "\e904";
+}
 .icon-vtk:before {
   content: "\e900";
 }
@@ -210,4 +219,13 @@ a:hover, a:focus, a:active {
 }
 .icon-opencv:before {
   content: "\e90a";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-trello:before {
+  content: "\eab3";
+}
+.icon-npm:before {
+  content: "\eab1";
 }
