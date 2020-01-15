@@ -177,11 +177,11 @@ a:hover, a:focus, a:active {
 
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?1kskr0');
-  src:  url('fonts/icomoon.eot?1kskr0#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?1kskr0') format('truetype'),
-    url('fonts/icomoon.woff?1kskr0') format('woff'),
-    url('fonts/icomoon.svg?1kskr0#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot?5ba3gk');
+  src:  url('../fonts/icomoon.eot?5ba3gk#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?5ba3gk') format('truetype'),
+    url('../fonts/icomoon.woff?5ba3gk') format('woff'),
+    url('../fonts/icomoon.svg?5ba3gk#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
